@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tam95
 - 👀 I’m interested in Software and Machine learning
-- 🌱 I’m currently learning Python and Machine learning and some random js Framework I found fun
+- 🌱 Interested in Python and Machine learning and some random js Framework
 - 💞️ I’m looking to collaborate on any interest me
 
 <!---
